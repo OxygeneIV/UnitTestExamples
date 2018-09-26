@@ -33,7 +33,7 @@ namespace UnitTestExamplesNUnit
             var j = -5;
             var res = classToTest1.Adder(i, j);
             Assert.AreEqual(-118, res);
-        }
+        } 
         //[TestCase]
         //public void TestAddPositiveAndNegativeNumbers()
         //{
